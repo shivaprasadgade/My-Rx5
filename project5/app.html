@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vivaha Bhojanambu</title>
+    <link rel="stylesheet" href="app.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .menu {
+            text-align: left;
+        }
+        .category {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #ffcc80;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        button {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Vivaha Bhojanambu</h1>
+        
+        <div class="menu">
+            <div class="category">
+                <h2>Starters</h2>
+                <ul>
+                    <li>Chicken 65</li>
+                    <li>Paneer Tikka</li>
+                    <li>Gobi Manchurian</li>
+                    <li>Tandoori Chicken</li>
+                    <li>Spring Rolls</li>
+                </ul>
+            </div>
+            
+            <div class="category">
+                <h2>Chicken Varieties</h2>
+                <ul>
+                    <li>Butter Chicken</li>
+                    <li>Chicken Biryani</li>
+                    <li>Chicken Tikka Masala</li>
+                    <li>Andhra Chilli Chicken</li>
+                    <li>Chettinad Chicken</li>
+                </ul>
+            </div>
+            
+            <div class="category">
+                <h2>Desserts</h2>
+                <ul>
+                    <li>Gulab Jamun</li>
+                    <li>Rasmalai</li>
+                    <li>Chocolate Brownie</li>
+                    <li>Ice Cream</li>
+                    <li>Carrot Halwa</li>
+                </ul>
+            </div>
+            
+            <div class="category">
+                <h2>Beverages</h2>
+                <ul>
+                    <li>Mango Lassi</li>
+                    <li>Masala Chai</li>
+                    <li>Cold Coffee</li>
+                    <li>Fresh Lime Soda</li>
+                    <li>Coconut Water</li>
+                </ul>
+            </div>
+        </div>
+        
+        <button id="orderButton">Order Now</button>
+    </div>
+
+    <script>
+        document.getElementById("orderButton").addEventListener("click", function() {
+            alert("Thank you for your order! Your food will be ready soon.");
+        });
+    </script>
+</body>
+</html>

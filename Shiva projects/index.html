@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <nav>
+        <div class="navbar">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Portfolio Content -->
+    <div class="portfolio">
+        <div class="image-grid img">
+            <img src="images/image3.jpg" alt="Image 1">
+        </div>
+        <h1>CREATIVE PORTFOLIO</h1>
+        <p class="para">I am a designer in an app refers to a feature or<br/> tool that allows users to customize the appearance of t<br/>ext within a paragraph, including aspects <br/>like font style, size, color, alignment, line </br>spacing, and indentation, essentially giving them granular<br/> control over how their written content is displayed </p>
+        <h4 class="head">Read more</h4>
+   
+
+        <!-- Image Grid -->
+        <div class="image-grid">
+
+            <img src="images/image2.jpg" alt="Image 2">
+            <img src="images/image1.jpg" alt="Image 3">
+        </div>
+        <div class="container">
+            <div class="left-side">
+                <h5>We</h5>
+                <h3>Build</h3>
+                <h1>Digital</h1>
+            </div>
+            <div class="right-side">
+                <p>I am a designer in an app refers to a<br/> feature or tool that allows users <br/>to customize the appearance of text <br/>within a paragraph, including aspects <br/>like font style, size, color, alignment<br/>, line spacing, and indentation, essentially <br/>giving them granular control over how <br/>their written content is displayed</p>
+                <button class="button">read more</button>
+            </div>
+        </div>
+    
+        
+
+    <script>
+        // Hamburger menu toggle for mobile view
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+
+        hamburger.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    </script>
+    
+   <hr>
+   <h2>we design People inspired</br> expeience that create positive </br>changes in people lives</h2>
+   <p class="paragraph">visit:www.9arts.com</p>
+</body>
+</html>

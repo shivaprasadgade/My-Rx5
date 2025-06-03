@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <div class="navbar">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Portfolio Content -->
+    <div class="portfolio">
+        <h1>CREATIVE PORTFOLIO</h1>
+        <p>I am a designer</p>
+        <p>We</p>
+        <p>Build</p>
+        <p>Digital</p>
+        <p>We design <span class="highlight">People Inspired</span></p>
+        <p>Experiences that create positive impact</p>
+
+        <!-- Image Grid -->
+        <div class="image-grid">
+            <img src="images/laptop.jpg" alt="Image 1">
+            <img src="https://via.placeholder.com/300" alt="Image 2">
+            <img src="https://via.placeholder.com/300" alt="Image 3">
+        </div>
+    </div>
+
+    <script>
+        // Hamburger menu toggle for mobile view
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+
+        hamburger.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    </script>
+</body>
+</html>
+

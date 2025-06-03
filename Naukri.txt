@@ -1,0 +1,308 @@
+Naukri
+
+digital Marketing Manager
+
+1>
+
+Job description
+
+Beyond Edge Business Solutions is looking for a Digital Marketing Manager to join our Creative Business Services team in Hyderabad. This role is ideal for a dynamic and experienced professional who excels in driving digital campaigns and social media strategies. You will be responsible for creating and executing comprehensive digital marketing campaigns across various channels for both the company and clients in diverse industries. Your expertise in social media management, SEO, SEM, and analytics will be crucial in driving measurable success.
+Key Responsibilities:
+Campaign Strategy & Execution: Develop and implement digital marketing campaigns across multiple platforms such as social media, email marketing, Google Ads, and search engine marketing (SEM).
+Content Creation & Social Media Management: Craft engaging and informative content for platforms like Facebook, Twitter, Instagram, LinkedIn, and YouTube, while ensuring alignment with brand voice and objectives.
+Analytics & Optimization: Monitor and analyze campaign performance using social media and website analytics tools (Google Analytics, Adobe Analytics) and refine strategies to ensure optimal results.
+Required Skills and Experience:
+3+ years of proven experience in social media and digital marketing, ideally within a creative or advertising agency.
+In-depth knowledge of SEO, SEM, Google Ads, Facebook Ads, and other paid advertising platforms. Proficiency in social media marketing (SMM) across multiple platforms (Facebook, Instagram, LinkedIn, Twitter, YouTube).
+Familiarity with website management tools like WordPress or Drupal, and website analytics tools such as Google Analytics.
+Attention to detail, ability to prioritize, and work independently and within a team in a fast-paced environment.
+Role: Social Media Marketing
+Industry Type: Management Consulting
+Department: Marketing & Communication
+Employment Type: Full Time, Permanent
+Role Category: Digital Marketing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Social media marketingadvertising agencyDrupalGoogle AnalyticsEmail marketingWordpressSEMHTMLSEODigital marketing
+
+2>
+
+Job description
+Role & responsibilities
+
+
+Running Strategic campaigns on Instagram, engaging content to reach target audiences, boost brand awareness, and drive conversions. It includes sponsored posts, influencer collaborations, carousel ads, reels, and stories with compelling visuals and captions. Using Instagrams analytics, candidate should track engagement, optimize performance, and refine strategies for maximum impact.
+
+
+Running Facebook ads by creating targeted campaigns to reach specific audiences, increase brand visibility, and drive engagement.
+
+Crafting highly targeted campaigns using audience insights, engaging creatives, and compelling ad copy to maximize reach, engagement.
+
+
+A strong SEO strategy to enhance rankings, increases website traffic, and boosts online presence.
+
+
+
+
+
+
+Role: Campaign Manager
+Industry Type: Miscellaneous
+Department: Marketing & Communication
+Employment Type: Full Time, Permanent
+Role Category: Digital Marketing
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+InstagramCampaignsSocial Media MarketingFacebookMeta Ads
+Google AdsSMMFacebook AdsInternet MarketingDigital MarketingInstagram AdsSEO
+
+PYTHON FULL STACK 
+
+3>
+
+Job description
+Looking only Immediate Joiners
+
+
+Proven experience as a Full Stack Developer (Python + React + AWS) or similar role.
+Minimum of 5 years of experience in full stack development.
+Strong proficiency in Python and experience with backend frameworks (e.g., Django, Flask, SQLAlchemy).
+Solid experience with React and frontend development.
+Hands-on experience with AWS services (e.g., EC2, S3, Lambda).
+Familiarity with RESTful APIs and web services.
+Knowledge of database systems (e.g., SQL Server, PostgreSQL, MongoDB).
+Understanding of version control systems (e.g., Git).
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills.
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).Looking only Immediate Joiners
+
+
+
+
+
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+ReactAWSPython
+
+4>
+
+Job description
+Specific Duties:
+
+
+1. Full stack developer who can understand and write Reusable, Testable and Efficient code using Python and JavaScript languages.
+
+2. Responsible for regular communication with others involved in the development process
+
+3. Design and implementation of low-latency, high-availability, and performance applications
+
+
+Desired Outcome:
+
+1. Ability to Design Performant Applications with Testable and Reusable code.
+
+2. Ability to Adapt different programming languages or framework based on requirement
+
+3. Able to Participate in code reviews and design reviews
+
+
+Education, Knowledge, Skills, Abilities and Experience
+
+Education: CSE, ECE, IT, EEE
+
+Essential: - Python, Dotnet, Java, Vue JS, JavaScript, PostgreSQL
+
+Desired: - Deployment, Gitlab, Linux
+
+Knowledge: - AWS, Docker, ETL, Keycloak
+
+
+Skills and abilities:
+
+1. Python Django, Django Rest framework, Java, Dotnet
+
+2.JavaScript , Angular, Vue JS, React JS Quasar Framework
+
+3. Databases PostgreSQL, Redis, MSSQL, Influx, ETL
+
+4.Deployment Nginx, Apache, Linux
+
+5. Source Control Git, GitLab, CI/CD
+
+
+Experience:
+
+1. 5 to 7 years of experience in building and deploying web applications using the Python & Vue JS, React eco system
+
+
+2. Experience in Deployment process of web servers (Django) & Vue JS, React JS using Nginx or Apache
+
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+JavaDotnetReactAngularPython
+Vue.JsFullStack Developer
+
+UI DEVELOPER
+
+5>
+Job description
+Job Responsibilities:
+
+Delivering a complete front-end application.
+Ensuring high performance on mobile and desktop.
+Good working experience with java script, jQuery & AJAX is a must have.
+Must understand HTML 45, CSS 23 styling & layout.
+Understanding of client side Java Script frameworks like like Angular.js, ember.js or any other will be an added advantage.
+Ability to create web interfaces that work cross browser and are browser agnostic.
+Familiarity with server side web development with Java will be an added advantage.
+Working as part of the core development team to ideate, develop and deploy new tools and components on the existing platform in an agile environment.
+Role: Back End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Post Graduation Not Required
+Key Skills
+SIDECSSjQueryFront endMVC frameworkWeb developmentJavascriptAgileHTMLAjax
+
+6>
+
+Job description
+Experienced candidates with the following skill Proficient understanding of web mark-up, including HTML5 and CSS3 and Bootstrap.
+
+Experience
+1+ years in relevant field
+
+Location
+Hyderabad
+
+Role
+UI Developer
+
+Industry Type
+IT Services & Consulting
+
+Department
+IT
+
+Employment Type
+Full Time, Permanent
+
+Role Category
+UI Designer
+
+Education
+Any Graduate
+
+Desired Candidate Profile
+1-2 years of proven experience in HTML5/CSS3 based web application development
+Top-notch programming skills and in-depth knowledge of modern HTML/CSS, HTML5, CSS3, Bootstrap
+Knowledge of JQUERY, JavaScript, Photoshop, Responsive and Fluid Design, JSON, XML
+Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques
+Basic knowledge of Search Engine Optimisation process
+Roles and Responsibilities
+Write well designed, testable, efficient code by using best software development practices
+Create website layout/user interface by using standard HTML/CSS practices
+Gather and refine specifications and requirements based on technical needs
+Be responsible for maintaining, expanding, and scaling our site
+Cooperate with web designers to match visual design intent
+Ensuring high performance on mobile and desktop
+Ability to create web interfaces that work cross browser and are browser agnostic
+Work with other developers to ensure that the website is functional and visually appealing
+Ensure that the website is optimized for various devices
+Role: Front End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Front End Development
+HTML5JavaScriptBootstrapPhotoshopJQUERYResponsive DesignCSS3
+
+UI DESIGNER
+
+7>
+Job description
+We are looking for a talented UI Designer to create amazing user experiences. You will be able to create wireframes , storyboards , user flows , process flows and site maps to effectively communicate interaction and design ideas.
+
+Experience: 2 to 5 years
+
+Experience:2 to 5 years
+
+Software Proficiency: Photoshop , Illustrator , Coreldraw , Indesign software.
+
+Software Proficiency:Photoshop , Illustrator , Coreldraw , Indesign software.
+
+Technical Proficiency: Proficiency / Brief Idea on HTML , CSS , and JavaScript for rapid prototyping.
+
+Technical Proficiency:Proficiency / Brief Idea on HTML , CSS , and JavaScript for rapid prototyping.
+Role: Web Designer
+Industry Type: IT Services & Consulting
+Department: UX, Design & Architecture
+Employment Type: Full Time, Permanent
+Role Category: Other Design
+Education
+UG: B.Tech/B.E. in Computers
+PG: M.Tech in Computers
+Key Skills
+CSSIllustratorJavascriptCorel DrawHTMLPhotoshop
+
+8>  
+Job description
+Risevertise Media is looking for UI Designer A UI (User Interface) designer is responsible for creating and enhancing the visual and interactive elements of a digital product, such as websites, mobile applications, or software interfaces. They focus on designing the user experience and interface to ensure usability, accessibility, and overall user satisfaction. The primary goal of a UI designer is to create intuitive and visually appealing interfaces that enable users to interact with digital products seamlessly.
+
+The job description of a UI designer typically includes the following responsibilities:
+
+User Research: Conducting user research to understand the target audience, their needs, and preferences. This research helps in designing interfaces that meet user expectations and improve user satisfaction.
+
+Wireframing and Prototyping: Creating wireframes and interactive prototypes that showcase the layout, structure, and functionality of the interface. These prototypes help in gathering feedback and testing usability before the development phase.
+
+Visual Design: Designing the visual elements of the interface, including typography, color schemes, icons, images, and other graphical assets. UI designers focus on creating visually appealing and cohesive designs that align with the brand identity and target audience.
+
+Interaction Design: Defining the interactive elements and behaviors of the interface, such as buttons, forms, menus, navigation, and animations. UI designers ensure that these elements are intuitive, easy to use, and provide clear feedback to the user.
+
+Collaboration: Collaborating with cross-functional teams, including UX designers, developers, product managers, and stakeholders, to understand project requirements and ensure the design aligns with the overall product vision.
+
+Design Guidelines and Documentation: Creating design guidelines, style guides, and documentation that outline the design principles, visual standards, and interaction patterns to maintain consistency across different screens and components.
+
+Usability Testing: Conducting usability testing to evaluate the effectiveness and efficiency of the interface design. UI designers collect user feedback, identify areas of improvement, and iterate on the design to enhance the user experience.
+
+Stay Updated: Keeping up with industry trends, emerging design tools, and new technologies related to UI design. Continuous learning and staying updated on design best practices help UI designers deliver innovative and cutting-edge designs.
+
+In summary, a UI designer combines artistic and technical skills to create visually appealing and user-friendly interfaces for digital products. They work closely with other team members to ensure that the interface design enhances the overall user experience and meets the project requirements.
+Role: Web Designer
+Industry Type: IT Services & Consulting
+Department: UX, Design & Architecture
+Employment Type: Full Time, Permanent
+Role Category: Other Design
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+design studioFront endAgile scrumhtml5Front end designWeb developmentJavascriptSIDCSS3
+

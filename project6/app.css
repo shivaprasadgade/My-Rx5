@@ -1,0 +1,12 @@
+.button{
+    background-color:rgb(98, 178, 244);
+    border-radius:3px;
+    color: black;
+    margin:auto;
+}
+.heading{
+    text-align: center;
+}
+.para{
+    text-align:center;
+}
